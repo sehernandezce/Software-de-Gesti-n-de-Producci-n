@@ -1,2 +1,2 @@
-# Software-de-Gesti-n-de-Producci-n
+# Software de Gestion de Produccion
 Final project for Data structure class
